@@ -27,7 +27,7 @@
    ```
 
 ## Entity Diagram
-
+![Alt text](erd.png "Optional title")
 
 ## Endpoints
 base URL
